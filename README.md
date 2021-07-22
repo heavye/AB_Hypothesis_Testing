@@ -9,6 +9,6 @@
 
 `2.` Classical A/B Testing
 
-`3.`
+`3.` Sequential A/B Testing (work on progress ...)
 
 `4.` 
