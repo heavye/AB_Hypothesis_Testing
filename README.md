@@ -11,4 +11,4 @@
 
 `3.` Sequential A/B Testing 
 
-`4.` 
+`4.` A/B testing with Machine Learning (work on progress . . .)
