@@ -17,7 +17,6 @@
 * Data exploration ==> notebooks/EDA.ipynb
 * Classical AB test ==> notebooks/AB_test.ipynb
 * Sequential Test ==> notebooks/Sequential_Test.ipynb
-* Machine learning ==> notebooks/ML AB Test.ipynb
 
 ## Data
 - The BIO data for this project is a “Yes” and “No” response of online users to the following question
